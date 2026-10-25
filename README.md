@@ -26,8 +26,4 @@ A Python-based Patient Record Management System developed using Jupyter Notebook
 - Hands-on experience with Jupyter Notebook.
 - Development of a project to organize patient information.
 
-## Privacy Notice
-Use only sample or dummy patient information for demonstration. Do not upload real patient records or confidential medical information to a public repository.
 
-## Author
-Add your name here.
